@@ -1,0 +1,37 @@
+# CS3152: Group 7
+
+## Thematic Focus
+
+### What dream are we satisfying?
+I want to experience a world without light.
+
+### What is our setting?
+A virtual world in which sound energy replaces light energy and landscapes are effectively abstract (since they are perceived through contact and sound waves alone). Inhabitants absorb sound energy from sources (such as each other or sounds created by motion) involuntarily, just like our bodies naturally absorb light energy. Without enough sound energy to sustain it, an inhabitant will surely die.
+
+### What is our perspective?
+Top-down. Sound waves are visualized as concentric circles emanating from a sound source. When sound waves or the player makes contact with an obstacle, the shape of the obstacle briefly appears on the screen.
+
+
+## Gameplay Mechanics
+
+### What are the player's goals?
+-Main: To make it to the end of the obstacle course.
+--Supplementary: To absorb enough sound energy from other inhabitants in order to maneuver the obstacle course.
+-Secondary: To make large sounds (pings) in order to perceive the location of obstacles and inhabitants.
+(A mixture of capture, chase, escape, and explore goal types)
+
+### What are the player actions?
+Primary
+-Move: left-right-up-down (progresses the player and makes small sound waves)
+Secondary
+-Ping: use sound energy to emit a larger sound wave
+
+### What are the important interactions?
+Sound waves contact Obstacle: Obstacle briefly appears on screen
+Sound waves contact Enemy: Enemy appears and runs toward/away from sound source
+Player contacts Enemy: If enemy turned away, player (if motionless) drains enemy sound energy; If enemy facing player, pauses and drains player sound energy
+Player contacts Enemy Sound Wave or Sound Wave, will passively absorb sound wave energy. 
+
+### What challenges does the player face?
+Intrinsic Challenges: Perception of surroundings is limited by echo, which is also limited. The player must avoid enemies in a maze-like level and reach the end of the level while also relying on enemies to “recharge” sound.
+So far no extrinsic challenges so far.

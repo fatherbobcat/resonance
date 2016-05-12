@@ -1,0 +1,41 @@
+Group Charter:
+
+Name for Project: Project Sound
+Name of development team: Dark Energy
+
+Project Description:
+Our project is a top-down perspective survival game that utilizes echo location. 
+The level is a maze-light construct and the objective is to reach the end of the 
+level while also completing smaller objectives. Initially the level is completely 
+dark. The player’s perception is based on a sonar-style system. The player has the 
+ability to “ping”, or release a concentric ring of sound, which illuminates the 
+players surroundings (walls, items and enemies) by reflection. Each ping costs a 
+certain amount of “sound points”, which can be recharged by absorbing sound emitted 
+from different sources. Also note that the player does not have enough sound points 
+to reach the end of the level initially. There are multiple enemies per level that 
+attempt to find the player and kill him/her. The enemies utilize a similar mechanic 
+of echo-location to find players (the players can absorb sound emitted by enemies 
+that are pinging). The envisioned gameplay combines strategy, exploration, survival 
+and light-puzzle elements.
+
+Project Leader: Anthony Chen
+Lead Programmer: Detian Shi 
+
+Development Team Members:
+  Detian Shi (ds629) : 225-366-7310
+  Nick Beaumont (nob8): 1-315-746-0141
+  Elle Lee (dyl26) : (858) 349-0459
+  Anthony Chen (apc52): (732) 492-6264
+  Rena Sha (ls476) : 607 379 9812 
+  Natalie Diebold (nnd23) : (770) 789-4782
+
+Development Roles:
+  Natalie - Lead Visual Designer
+  Nick - Assets 
+  Rena - Level Editor
+  Elle - GUI
+  Detian - Lead Programmer
+  Anthony - AI Programmer 
+
+Meetings:
+Tuesdays - 4:30PM

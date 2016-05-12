@@ -1,0 +1,63 @@
+Level Notes:
+
+Rena
+-Rolling boulder, possibly targets user
+-Campers, creeps, hunters all over
+-Avalanche zone
+-Waterfall save point, restores sound energy
+
+Detian
+-Secret passage to a room and rock slide spot
+-Campers block one area
+-Scripted stampede of creeps warning of danger to the north (hunters)
+-River monster and waterfall
+-Landmark save point
+-Goal is across river
+
+Nick
+-Creeps all over
+-Centipede makes large noise and only follows player if in sight
+-Three hunters on the loose
+-Rock formation obstacles (shaded)
+-Landmark save points (triangles)
+
+Nate
+-Pings can travel through holes in walls
+-Hunters, Centipede, and Skeleton guy
+-old government building and parking deck theme
+-Old cars as obstacles
+-Three false paths that lead to doom
+-Large rift in the floor
+-Pinging in crater reveals large area
+-Caged hunter
+-Stairs lead to next level
+
+Anthony
+-Small rooms linked by passageways (dungeon style)
+-Stompers pace back and forth in hallways
+-Some paths lead to rockslides
+-Campers hidden between walls
+-Hunter roams for added uncertainty
+-Fuzzy walls undetectable with sound
+
+Elle
+-Walk into or ping near rock piles to set them off
+-Landmark save points (blue)
+-Hunters (red)
+-Stompers (purple)
+
+Natalie
+-Icy (or stone) paths across river
+-Send sound through pipes to move sleeping enemy away from icy path
+-Satelites light up area immediately around home location
+-Remains of civilization scattered beyond walls
+-Icky poo pile
+-Rummagging bunny monsters (creeps?) light up random bits of area outside of home
+-Two paths: enemy nest or avalanche zone
+-Stairs to bird monster that will fly player across areas, revealing parts of the level map
+-Large empty field with a swing set that triggers flashbacks/memories
+
+Prototype:
+-Ping Tokens limit pings
+-Players move 3 blocks in one turn and can ping anytime
+-Paper, Graph paper, markers, pencils, scissors, straight edges
